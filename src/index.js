@@ -1,17 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
-import Card from './Card.js';
-import PlayerList from "./PlayerList.js";
-import {players} from "./players.js";
-import {pics} from "./img.js";
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
  
 ReactDOM.render(
   <React.StrictMode>
-   <PlayerList players={players} pics={pics}/>
+   <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
