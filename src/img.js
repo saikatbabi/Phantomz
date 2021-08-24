@@ -1,7 +1,7 @@
 export const pics=[
     {
         id: 1,
-        img: '.\arnab.jpg',
+        img: '..\images\arnab.jpg',
     },
 
     {
