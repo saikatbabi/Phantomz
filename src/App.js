@@ -4,6 +4,7 @@ import {players} from './players';
 import Searchbox from './Searchbox';
 import {pics} from "./img.js";
 import Scroll from './Scroll';
+import './App.css';
 class App extends Component {
     
     constructor(){

@@ -5,7 +5,7 @@ import Card from "./Card";
      return(
          players.map((users,i)=>
             {
-                return <Card key={players[i].id} name={players[i].name} ability={players[i].specialAbility} pic={pics[i]}/>
+                return <Card key={players[i].id} name={players[i].name} ability={players[i].specialAbility} pic={pics[i]} about={players[i].about}/>
             })
          
 
