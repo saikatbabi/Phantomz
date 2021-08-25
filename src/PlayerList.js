@@ -1,11 +1,11 @@
 import React from "react";
 import Card from "./Card";
 
- const PlayerList=({players,pics})=>{
+ const PlayerList=({players})=>{
      return(
          players.map((users,i)=>
             {
-                return <Card key={players[i].id} name={players[i].name} ability={players[i].specialAbility} pic={pics[i]} about={players[i].about}/>
+                return <Card key={players[i].id} name={players[i].name} ability={players[i].specialAbility} pic={players[i].img} about={players[i].about}/>
             })
          
 

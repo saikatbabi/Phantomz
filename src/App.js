@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import PlayerList from './PlayerList';
 import {players} from './players';
 import Searchbox from './Searchbox';
-import {pics} from "./img.js";
 import Scroll from './Scroll';
 import './App.css';
 class App extends Component {
@@ -12,7 +11,7 @@ class App extends Component {
         console.log('hello')
         this.state ={
             players: players,
-            pics:pics,
+          
             searchfield:''
         }
     }
@@ -35,7 +34,7 @@ class App extends Component {
                 <h1>Phantomz group</h1>
                 <Searchbox searchChange={this.onSearchChange}/>
                 <Scroll>
-                    <PlayerList players={filterPlayers} pics={this.state.pics}/>
+                    <PlayerList players={filterPlayers}/>
                 </Scroll>
             </div>
 

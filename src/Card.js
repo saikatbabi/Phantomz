@@ -3,11 +3,11 @@ import './card.css';
 
 const Card = (props) =>{
     return(
-        <div className='tc bg-light-green br3 dib pa3 ma3 grow bw2 shadow-5 ' height='400px' width ='400px'>
-            <img src={props.pic.img} alt='image' height='200px' width='200px'>
+        <div className='tc bg-light-green br3 dib pa3 ma3 grow bw2 shadow-5 '>
+            <img src={props.pic} alt='image' height='200px' width='200px'>
 
             </img>
-            {console.log(props.pic.img)}
+           
             <div>
                 <h2>{props.name}</h2>
                 <h3>{props.ability}</h3>
