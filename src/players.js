@@ -76,7 +76,14 @@ export const players = [
       specialAbility: 'Powerful slogger',
       about:'With his huge biceps loves to hammer the ball all over the park has a very powerful and unresistable cut shot'
     
-    }
+    },
+
+    {
+      id: 13,
+      name: 'Russel da',
+      specialAbility:'Hard hitting Batsman',
+      about:'As the name suggests Russel da is known for his extraordinary shot making skills.Once set he can turn the game upside down.'
+    },
 
   ];
   
