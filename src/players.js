@@ -78,12 +78,7 @@ export const players = [
     
     },
 
-    {
-      id: 13,
-      name: 'Russel da',
-      specialAbility:'Hard hitting Batsman',
-      about:'As the name suggests Russel da is known for his extraordinary shot making skills.Once set he can turn the game upside down.'
-    },
+    
 
   ];
   
