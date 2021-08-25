@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Phantomz/static/css/main.56ebcbfa.chunk.css",
-    "main.js": "/Phantomz/static/js/main.fe3af8a1.chunk.js",
-    "main.js.map": "/Phantomz/static/js/main.fe3af8a1.chunk.js.map",
-    "runtime-main.js": "/Phantomz/static/js/runtime-main.65cda02d.js",
-    "runtime-main.js.map": "/Phantomz/static/js/runtime-main.65cda02d.js.map",
+    "main.css": "/Phantomz/static/css/main.847425a7.chunk.css",
+    "main.js": "/Phantomz/static/js/main.faf63a2c.chunk.js",
+    "main.js.map": "/Phantomz/static/js/main.faf63a2c.chunk.js.map",
+    "runtime-main.js": "/Phantomz/static/js/runtime-main.5b118924.js",
+    "runtime-main.js.map": "/Phantomz/static/js/runtime-main.5b118924.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Phantomz/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.c25d00c2.chunk.js": "/Phantomz/static/js/2.c25d00c2.chunk.js",
-    "static/js/2.c25d00c2.chunk.js.map": "/Phantomz/static/js/2.c25d00c2.chunk.js.map",
-    "static/js/3.807264d9.chunk.js": "/Phantomz/static/js/3.807264d9.chunk.js",
-    "static/js/3.807264d9.chunk.js.map": "/Phantomz/static/js/3.807264d9.chunk.js.map",
+    "static/js/2.943c57d3.chunk.js": "/Phantomz/static/js/2.943c57d3.chunk.js",
+    "static/js/2.943c57d3.chunk.js.map": "/Phantomz/static/js/2.943c57d3.chunk.js.map",
+    "static/js/3.4172a92b.chunk.js": "/Phantomz/static/js/3.4172a92b.chunk.js",
+    "static/js/3.4172a92b.chunk.js.map": "/Phantomz/static/js/3.4172a92b.chunk.js.map",
     "index.html": "/Phantomz/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/Phantomz/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.56ebcbfa.chunk.css.map": "/Phantomz/static/css/main.56ebcbfa.chunk.css.map",
-    "static/js/2.c25d00c2.chunk.js.LICENSE.txt": "/Phantomz/static/js/2.c25d00c2.chunk.js.LICENSE.txt"
+    "static/css/main.847425a7.chunk.css.map": "/Phantomz/static/css/main.847425a7.chunk.css.map",
+    "static/js/2.943c57d3.chunk.js.LICENSE.txt": "/Phantomz/static/js/2.943c57d3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Phantomz/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.65cda02d.js",
+    "static/js/runtime-main.5b118924.js",
     "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.c25d00c2.chunk.js",
-    "static/css/main.56ebcbfa.chunk.css",
-    "static/js/main.fe3af8a1.chunk.js"
+    "static/js/2.943c57d3.chunk.js",
+    "static/css/main.847425a7.chunk.css",
+    "static/js/main.faf63a2c.chunk.js"
   ]
 }
