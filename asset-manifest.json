@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Phantomz/static/css/main.847425a7.chunk.css",
-    "main.js": "/Phantomz/static/js/main.9c144d57.chunk.js",
-    "main.js.map": "/Phantomz/static/js/main.9c144d57.chunk.js.map",
+    "main.js": "/Phantomz/static/js/main.0197d87b.chunk.js",
+    "main.js.map": "/Phantomz/static/js/main.0197d87b.chunk.js.map",
     "runtime-main.js": "/Phantomz/static/js/runtime-main.5b118924.js",
     "runtime-main.js.map": "/Phantomz/static/js/runtime-main.5b118924.js.map",
     "static/css/2.6d7c7915.chunk.css": "/Phantomz/static/css/2.6d7c7915.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.943c57d3.chunk.js",
     "static/css/main.847425a7.chunk.css",
-    "static/js/main.9c144d57.chunk.js"
+    "static/js/main.0197d87b.chunk.js"
   ]
 }
