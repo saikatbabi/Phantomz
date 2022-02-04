@@ -4,14 +4,14 @@ export const players = [
       name: 'Sarfaraz da',
       specialAbility: 'Mystery spinner',
       about:'Our beloved Yusuf is a mysterious legspinner with unpickable googly also is a great umpire ',
-      img: 'images\arnab.jpg',
+      img: 'arnab.jpg',
     },
     {
       id: 2,
       name: 'Arnab',
       specialAbility: 'Attacking opener',
       about:'Arnab the big man hits the ball in the stands,can play unorthodox shots like reverse sweap',
-      img:'https://scontent.fccu4-2.fna.fbcdn.net/v/t1.6435-9/167841599_251835933312518_3502729165880790570_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Dy_I6QDdsPAAX98PoLO&_nc_ht=scontent.fccu4-2.fna&oh=80e53b4df8be5b49699e4a2b00cfb799&oe=614B2375',
+      img:'arnab.jpg',
       
     },
     {
@@ -19,7 +19,7 @@ export const players = [
       name: 'Sutam',
       specialAbility:'Attacking batsman',
       about: 'Sutam with his mejestic ability to time the ball plays elegant cricket shots, also is a stunning fielder',
-      img:'https://scontent.fccu4-2.fna.fbcdn.net/v/t1.6435-9/195171155_984185992352347_2685154898335341875_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rCAhS6wEsLgAX-o4Wim&_nc_ht=scontent.fccu4-2.fna&oh=d4479032d960575e59fce31efe7abc09&oe=614B8943',
+      img:'images\Sutam.jpg',
       
     },
     {
@@ -35,8 +35,7 @@ export const players = [
       name: 'Ruban',
       specialAbility: 'Fast bowler',
       about:'Although Ruban admires Ms Dhoni he is a magnificent fast bowler with good pace',
-      img:'https://scontent.fccu5-1.fna.fbcdn.net/v/t1.6435-9/150532471_278391300335206_7278058627504539437_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=LnnLzjA-94sAX84TjzA&_nc_ht=scontent.fccu5-1.fna&oh=aef626a633f2e810b9e562da09cf0c56&oe=614BE081',
-
+      img:'images\ruban.jpg',
     },
     {
       id: 6,
