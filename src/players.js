@@ -4,7 +4,7 @@ export const players = [
       name: 'Sarfaraz da',
       specialAbility: 'Mystery spinner',
       about:'Our beloved Yusuf is a mysterious legspinner with unpickable googly also is a great umpire ',
-      img: 'https://scontent.fccu4-2.fna.fbcdn.net/v/t1.18169-9/10414654_1432030217074143_3655968490224248074_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=3h16p2VMgWAAX9dETyJ&_nc_ht=scontent.fccu4-2.fna&oh=6178bce7e6539b26415abab5874c9403&oe=6148EC28',  
+      img: 'images\arnab.jpg',
     },
     {
       id: 2,
